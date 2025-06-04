@@ -119,6 +119,7 @@ arqSaida<<endl<<"Area do Cinema: \n" << endl;
     for (grade = 1; grade != contador_coluna + 1; grade++) {
         
         cout<<"\t[ "<<grade<<" ]";
+        arqSaida<<"\t[ "<<grade<<" ]";
     }
     
     
