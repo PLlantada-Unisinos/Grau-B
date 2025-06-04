@@ -123,7 +123,7 @@ arqSaida<<endl<<"Area do Cinema: \n" << endl;
     }
     
     
-    
+arqSaida<<endl;    
 cout<<"\n";
     for (cinemaL = 26; cinemaL != contador_linha + 1; cinemaL--) {
         
