@@ -67,13 +67,13 @@ int contador_coluna; //Auto Explanatório.
 int grade; //Usado para numerar as Colunas.
 
 ingresso ocupante; //O Ingresso em si.
-int CSF;
-int CSM;
-int Cint;
-int Cint2;
-int Cmei;
-int Cmei2;
-int profit;
+int CSF; //Contador Sexo Feminino
+int CSM; //Contador Sexo Masculino
+int Cint; //Preço inteira 1
+int Cint2; //Preço inteira 2
+int Cmei; //Preço meia 1
+int Cmei2; //Preço meia 2
+int profit; //Total a pagar / Lucro
 
 char text; //Character Chamado durante a ifstream (Display do Texto do Arquivo)
 
